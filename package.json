@@ -1,8 +1,8 @@
 {
-  "name": "@nestjs/passport",
-  "version": "6.1.1",
-  "description": "Nest - modern, fast, powerful node.js web framework (@passport)",
-  "author": "Kamil Mysliwiec",
+  "name": "wgui-nestjs-passport",
+  "version": "6.1.2",
+  "description": "Based on @nestjs/passport, AuthGuard with exclude path when use with Global",
+  "author": "Wei Gui",
   "license": "MIT",
   "scripts": {
     "build": "rimraf dist && tsc -p tsconfig.json",
